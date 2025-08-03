@@ -107,4 +107,4 @@ MIT License. Feel free to use, share, and improve.
 👨‍💻 Author
 
 Anas Loutou • anasloutou20@gmail.com
-LinkedIn: linkedin.com/in/anas-loutou/
+LinkedIn: https://www.linkedin.com/in/anas-loutou/
