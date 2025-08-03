@@ -104,7 +104,8 @@ This project uses a .env file to store sensitive variables like API keys. Make s
 
 MIT License. Feel free to use, share, and improve.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Anas Loutou • anasloutou20@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/anas-loutou/
